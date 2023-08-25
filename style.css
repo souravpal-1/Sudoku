@@ -10,14 +10,14 @@
     height: 100px;
 }
 #logo img{
-    width: 100%;
+    width: 120%;
 }
 
 #name{
-    width: 60%;
+    width: 75%;
     display: flex;
     align-items: center;
-    font-size: 50px;
+    font-size: 45px;
     font-weight: bold;
 }
 
@@ -64,7 +64,7 @@
     text-decoration: none;
     color: #fff;
     font-weight: bold;
-    background-color: #538fbe;
+    background-color: #d33030;
     padding: 10px 35px;
     font-size: 24px;
     border: 1px solid #2d6898;
@@ -73,29 +73,29 @@
 }
 
 .box1{
-    background-color: #1520A6;
+    background-color: #48e4e4;
     border: 2px solid  white;
 }
 
 .box1:hover{
-    background-color: #48aaaD;
+    background-color: #007a83;
     color: black;
 }
 
 .box2{
-    background-color: #BC5448;
+    background-color: #c2c21e;
     border: 2px solid  white;
 }
 .box2:hover{
-    background-color: red;
+    background-color: rgb(125, 129, 11);
 }
 
 .box3{
-    background-color: #028a0f;
+    background-color: #38c846;
     border: 2px solid  white;
 }
 .box3:hover{
-    background-color: #3Ded97;
+    background-color: #077314;
     color: black
 }
 
